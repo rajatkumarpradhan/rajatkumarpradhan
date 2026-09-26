@@ -34,6 +34,4 @@
 
 ## GitHub activity
 
-[![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatkumarpradhan&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true)](https://github.com/rajatkumarpradhan)
-
-<sub>Live third-party card; if it is unavailable or GitHub profile activity is private, use the repositories above for the work itself. No vanity metrics or claimed production deployments.</sub>
+See the [contribution graph and pinned repositories](https://github.com/rajatkumarpradhan) for live GitHub activity. The portfolio projects above are the primary evidence of the work; no externally generated stats or unverified metrics are used.
