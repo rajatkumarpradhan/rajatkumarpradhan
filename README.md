@@ -6,12 +6,13 @@ I design OCI infrastructure — VCN and subnet design, IAM policy, migrations �
 
 ## Research focus
 
-- **Cloud architecture on OCI** — VCN and subnet design, least-privilege IAM policy, budget guardrails, migration planning.
-- **Infrastructure as code** — modular Terraform validated offline: tfsec and mocked `terraform test` run in CI on every change.
-- **Applied AI with human review** — retrieval-grounded drafts, confidence gates and audit trails; the model assists, a person decides.
-- **Evaluation discipline** — leakage-aware splits, calibration and time-ordered validation on public data.
+<img src="assets/research-areas.svg" alt="Research focus: cloud architecture, infrastructure as code, applied AI with human review, evaluation discipline" width="100%">
 
-<img src="assets/divider.svg" alt="" width="100%">
+## The pattern I keep coming back to
+
+Useful AI in production is review-first: retrieve the right context, draft with citations, gate on confidence, and let a person make the call — with every step logged.
+
+<img src="assets/diagram.svg" alt="Review-first AI pipeline: records, retrieval, model draft, confidence gate, human decision, all logged to an audit ledger" width="100%">
 
 ## Selected work
 
@@ -25,9 +26,30 @@ I design OCI infrastructure — VCN and subnet design, IAM policy, migrations �
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## Currently exploring
+## How I work
 
-OCI AI service patterns for review-first document and incident workflows — exercised offline against recorded fixtures, with no live-tenancy spend.
+1. **Offline before claims** — tfsec, mocked `terraform test` and recorded fixtures in CI; nothing ships on a hunch.
+2. **Least privilege by default** — IAM scoped to the task; budgets as guardrails, not afterthoughts.
+3. **AI assists, a person decides** — confidence gates and human sign-off on anything outward-facing.
+4. **Honest documentation** — every README states what was tested and what was not.
+
+## Right now
+
+- **Currently exploring** — OCI AI service patterns for review-first document and incident workflows, exercised offline against recorded fixtures, with no live-tenancy spend.
+- **Roadmap** — open issues and next steps live on my [project board](https://github.com/users/rajatkumarpradhan/projects/1).
+
+## Referencing this work
+
+These repositories are portfolio simulations built for study. If you reuse something, link back to the repository — and test it against your own tenancy before trusting it.
+
+```bibtex
+@misc{pradhan-oci-portfolio,
+  author = {Pradhan, Rajat Kumar},
+  title  = {OCI Architecture and Applied AI: Portfolio Simulations},
+  year   = {2026},
+  url    = {https://github.com/rajatkumarpradhan}
+}
+```
 
 ## Stack
 
