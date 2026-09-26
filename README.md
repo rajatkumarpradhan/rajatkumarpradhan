@@ -4,26 +4,35 @@
 
 I design OCI infrastructure — VCN and subnet design, IAM policy, migrations — and study how cloud AI services fit into review-first workflows. The repositories below are independent portfolio simulations: tested offline, documented honestly, and not live tenancy deployments.
 
-### Selected work
+## Research focus
 
-- **[Terraform OCI Landing Zone](https://github.com/rajatkumarpradhan/terraform-oci-landing-zone)** — Modular landing zone: network, least-privilege IAM and budget guardrails across dev/prod environments. Mocked `terraform test` and tfsec run in CI; not applied to a live tenancy.
-- **[OCI Incident Intelligence](https://github.com/rajatkumarpradhan/oci-incident-intelligence)** — Incident intake and triage: deterministic retrieval baseline, duplicate queue and cited drafts, with an optional OCI AI path.
-- **[OCI Document Risk Review](https://github.com/rajatkumarpradhan/oci-document-risk-review)** — Invoice review with confidence gates, policy checks, corrections and a SQLite audit trail.
-- **[Cytology Evidence Lab](https://github.com/rajatkumarpradhan/cytology-evidence-lab)** — Leakage-aware validation, calibration and evidence-grounded local Q&A on public data. Research demo, not for clinical use.
-- **[Term Deposit Campaign Analysis](https://github.com/rajatkumarpradhan/term-deposit-campaign-analysis)** — Time-ordered validation and capacity-constrained batch ranking on historical public data.
+- **Cloud architecture on OCI** — VCN and subnet design, least-privilege IAM policy, budget guardrails, migration planning.
+- **Infrastructure as code** — modular Terraform validated offline: tfsec and mocked `terraform test` run in CI on every change.
+- **Applied AI with human review** — retrieval-grounded drafts, confidence gates and audit trails; the model assists, a person decides.
+- **Evaluation discipline** — leakage-aware splits, calibration and time-ordered validation on public data.
 
-### Stack
+<img src="assets/divider.svg" alt="" width="100%">
 
-![OCI](https://img.shields.io/badge/OCI-0d1117?style=flat-square&logo=oracle&logoColor=7d8590)
-![Terraform](https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=7d8590)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7d8590)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=7d8590)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=7d8590)
-![Actions](https://img.shields.io/badge/Actions-0d1117?style=flat-square&logo=githubactions&logoColor=7d8590)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7d8590)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=7d8590)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=7d8590)
+## Selected work
 
----
+| Project | Focus | Methods |
+| --- | --- | --- |
+| [Terraform OCI Landing Zone](https://github.com/rajatkumarpradhan/terraform-oci-landing-zone) | OCI network and IAM foundation across dev/prod | Modular Terraform; mocked `terraform test` and tfsec in CI; not applied to a live tenancy |
+| [OCI Incident Intelligence](https://github.com/rajatkumarpradhan/oci-incident-intelligence) | Incident intake and triage | Deterministic retrieval baseline, duplicate queue, cited review drafts; optional, untested OCI AI path |
+| [OCI Document Risk Review](https://github.com/rajatkumarpradhan/oci-document-risk-review) | Invoice review with an audit trail | Confidence gates, policy checks, corrections, SQLite audit ledger; optional, untested OCI Document Understanding path |
+| [Cytology Evidence Lab](https://github.com/rajatkumarpradhan/cytology-evidence-lab) | Medical-imaging ML workflow | Leakage-aware validation, calibration, evidence-grounded local Q&A; research demo, not for clinical use |
+| [Term Deposit Campaign Analysis](https://github.com/rajatkumarpradhan/term-deposit-campaign-analysis) | Marketing campaign analytics | Time-ordered validation, capacity-constrained batch ranking; historical public data |
 
-[LinkedIn](https://www.linkedin.com/in/rajatpradhan021/) · [Instagram](https://www.instagram.com/drayvenn._/) · Bengaluru, India
+<img src="assets/divider.svg" alt="" width="100%">
+
+## Currently exploring
+
+OCI AI service patterns for review-first document and incident workflows — exercised offline against recorded fixtures, with no live-tenancy spend.
+
+## Stack
+
+<img src="https://img.shields.io/badge/OCI-0d1117?style=flat-square&logo=oracle&logoColor=7d8590" alt="OCI"> <img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=7d8590" alt="Terraform"> <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7d8590" alt="Python"> <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=7d8590" alt="SQL"> <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=7d8590" alt="Linux"> <img src="https://img.shields.io/badge/Actions-0d1117?style=flat-square&logo=githubactions&logoColor=7d8590" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=7d8590" alt="Docker"> <img src="https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=7d8590" alt="Streamlit"> <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=7d8590" alt="scikit-learn">
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+[LinkedIn](https://www.linkedin.com/in/rajatpradhan021) · [Instagram](https://www.instagram.com/drayvenn._) · Bengaluru, India
