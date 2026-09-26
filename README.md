@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" alt="Rajat Kumar Pradhan - OCI Architect" width="100%">
+<img src="assets/banner.svg?v=2" alt="Rajat Kumar Pradhan - OCI Architect" width="100%">
 
 **OCI Architect at Oracle** — cloud architecture, Terraform and applied AI, with an emphasis on traceability and human review.
 
