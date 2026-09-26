@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:F80000&height=200&section=header&text=Rajat%20Kumar%20Pradhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=OCI%20Architect%20%40%20Oracle%20%C2%B7%20Cloud%20Architecture%20%C3%97%20Applied%20AI&descAlignY=58&descSize=18" alt="header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=OCI+Architecture+%C2%B7+Terraform+%C2%B7+Applied+AI;Tested%2C+honest+portfolio+work+in+public;Traceability%2C+review+gates%2C+known+limits" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Cloud+architecture+that+scales+%C2%B7+AI+that+explains+itself;Terraform+%C2%B7+OCI+%C2%B7+Applied+ML+%C2%B7+Evidence-first;Tested%2C+honest+portfolio+work+in+public" alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/rajatpradhan021/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rajatpradhan021-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/drayvenn._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-drayvenn.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -56,6 +56,8 @@ honesty_policy: >
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
