@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="170" viewBox="0 0 854 170">
+  <rect width="854" height="170" fill="#0d1117"/>
+  <!-- faint grid -->
+  <g stroke="#161b22" stroke-width="1">
+    <path d="M0 42.5 H854 M0 85 H854 M0 127.5 H854"/>
+    <path d="M106.75 0 V170 M213.5 0 V170 M320.25 0 V170 M427 0 V170 M533.75 0 V170 M640.5 0 V170 M747.25 0 V170"/>
+  </g>
+  <!-- subtle network motif, right side -->
+  <g stroke="#1f6feb" stroke-opacity="0.35" stroke-width="1">
+    <path d="M700 45 L755 70 L742 122 L812 100 L800 52"/>
+    <circle cx="700" cy="45" r="3.5" fill="#1f6feb" fill-opacity="0.5" stroke="none"/>
+    <circle cx="755" cy="70" r="3.5" fill="#1f6feb" fill-opacity="0.5" stroke="none"/>
+    <circle cx="742" cy="122" r="3.5" fill="#1f6feb" fill-opacity="0.5" stroke="none"/>
+    <circle cx="812" cy="100" r="3.5" fill="#1f6feb" fill-opacity="0.5" stroke="none"/>
+    <circle cx="800" cy="52" r="3.5" fill="#1f6feb" fill-opacity="0.5" stroke="none"/>
+  </g>
+  <text x="48" y="78" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="34" font-weight="600" fill="#e6edf3">Rajat Kumar Pradhan</text>
+  <text x="48" y="112" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="16" font-weight="400" fill="#7d8590">OCI Architect · Cloud infrastructure, Terraform and applied AI</text>
+  <rect x="48" y="128" width="46" height="3" fill="#1f6feb"/>
+</svg>
