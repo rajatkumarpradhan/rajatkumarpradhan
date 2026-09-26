@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/rajatpradhan021/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rajatpradhan021-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/drayvenn._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-drayvenn.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/rajatkumarpradhan?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Explore-OCI_projects-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=rajatkumarpradhan&style=for-the-badge&color=1f6feb">
 
 </div>
 
@@ -64,7 +65,6 @@ honesty_policy: >
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatkumarpradhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="GitHub stats"/>
 <img height="165" src="https://streak-stats.demolab.com?user=rajatkumarpradhan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=F80000&currStreakLabel=58a6ff" alt="GitHub streak"/>
 
 </div>
