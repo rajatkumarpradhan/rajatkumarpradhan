@@ -1,37 +1,74 @@
 <div align="center">
 
-<h1>Rajat Kumar Pradhan</h1>
-<h3>OCI Architect at Oracle · Cloud architecture × applied AI</h3>
-<p>I build practical cloud and data workflows, with an eye on traceability, review gates and the limits of a demo.</p>
-<p><a href="https://www.linkedin.com/in/rajatpradhan021/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&amp;logoColor=white"></a> <a href="https://github.com/rajatkumarpradhan?tab=repositories"><img alt="OCI projects" src="https://img.shields.io/badge/Explore-OCI_projects-F80000?logo=oracle&amp;logoColor=white"></a></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:F80000&height=200&section=header&text=Rajat%20Kumar%20Pradhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=OCI%20Architect%20%40%20Oracle%20%C2%B7%20Cloud%20Architecture%20%C3%97%20Applied%20AI&descAlignY=58&descSize=18" alt="header"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=OCI+Architecture+%C2%B7+Terraform+%C2%B7+Applied+AI;Tested%2C+honest+portfolio+work+in+public;Traceability%2C+review+gates%2C+known+limits" alt="Typing SVG" /></a>
+
+<a href="https://www.linkedin.com/in/rajatpradhan021/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-rajatpradhan021-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/drayvenn._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-drayvenn.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/rajatkumarpradhan?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Explore-OCI_projects-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
 
 </div>
 
-## About me
+---
 
-- OCI Architect at Oracle since October 2023. My work includes VCN/subnet/gateway design, IAM policies, Terraform infrastructure as code, migrations, monitoring and troubleshooting.
-- Exploring how OCI AI services can support explainable, human-reviewed workflows.
-- The OCI repositories below are **independent portfolio simulations**, not Oracle internal products or live OCI deployments. Their offline paths run locally; cloud integrations need a configured tenancy and are not live-tested here.
+### `$ whoami`
 
-## Selected work
+```yaml
+name: Rajat Kumar Pradhan
+role: OCI Architect @ Oracle (since Oct 2023)
+location: Bengaluru, India
+focus:
+  - VCN / subnet / gateway design, IAM policy, migrations
+  - Terraform infrastructure as code
+  - Applied AI with human review gates
+currently_exploring: OCI AI services for explainable, review-first workflows
+honesty_policy: >
+  The OCI repos here are independent portfolio simulations -
+  not Oracle internal products, not live tenancy deployments.
+  Offline paths run and are tested; cloud paths are documented, not live-tested.
+```
 
-| Project | What it demonstrates | Run status |
+---
+
+### Featured work
+
+| Project | What it demonstrates | Status |
 | --- | --- | --- |
-| [OCI Incident Intelligence](https://github.com/rajatkumarpradhan/oci-incident-intelligence) | Incident intake, deterministic retrieval baseline, duplicate queue, cited triage drafts and optional OCI AI integration | Offline path and tests run; OCI path untested |
-| [OCI Document Risk Review](https://github.com/rajatkumarpradhan/oci-document-risk-review) | Invoice review, confidence gates, policy checks, corrections and a SQLite audit trail | Offline path and tests run; OCI path untested |
-| [Cytology Evidence Lab](https://github.com/rajatkumarpradhan/cytology-evidence-lab) | Leakage-aware validation, calibration and evidence-grounded local Q&A on public data | Offline research demo, not clinical use |
-| [Term Deposit Campaign Analysis](https://github.com/rajatkumarpradhan/term-deposit-campaign-analysis) | Time-ordered validation and capacity-constrained batch ranking on historical public data | Offline analysis, not a live campaign |
+| [Terraform OCI Landing Zone](https://github.com/rajatkumarpradhan/terraform-oci-landing-zone) | Modular landing zone: network, least-privilege IAM, budget guardrails, dev/prod environments | Mocked `terraform test` + tfsec CI green; not applied to a live tenancy |
+| [OCI Incident Intelligence](https://github.com/rajatkumarpradhan/oci-incident-intelligence) | Incident intake, deterministic retrieval baseline, duplicate queue, cited triage drafts, optional OCI AI | Offline path and tests run; OCI path untested |
+| [OCI Document Risk Review](https://github.com/rajatkumarpradhan/oci-document-risk-review) | Invoice review, confidence gates, policy checks, corrections, SQLite audit trail | Offline path and tests run; OCI path untested |
+| [Cytology Evidence Lab](https://github.com/rajatkumarpradhan/cytology-evidence-lab) | Leakage-aware validation, calibration, evidence-grounded local Q&A on public data | Offline research demo, not clinical use |
+| [Term Deposit Campaign Analysis](https://github.com/rajatkumarpradhan/term-deposit-campaign-analysis) | Time-ordered validation, capacity-constrained batch ranking on historical public data | Offline analysis, not a live campaign |
 
-## Working stack
+---
 
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-OCI-F80000?logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Data-336791?logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)
+### Stack
 
-**Areas:** OCI networking and IAM · infrastructure as code · Python ML · document and language AI prototypes · evaluation and human review.
+<div align="center">
 
-## GitHub activity
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-See the [contribution graph and pinned repositories](https://github.com/rajatkumarpradhan) for live GitHub activity. The portfolio projects above are the primary evidence of the work; no externally generated stats or unverified metrics are used.
+</div>
+
+---
+
+### Numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatkumarpradhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="GitHub stats"/>
+<img height="165" src="https://streak-stats.demolab.com?user=rajatkumarpradhan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=F80000&currStreakLabel=58a6ff" alt="GitHub streak"/>
+
+</div>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F80000,50:1f6feb,100:0d1117&height=120&section=footer" alt="footer"/>
+</div>
