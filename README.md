@@ -2,6 +2,8 @@
 
 **OCI Architect at Oracle** — cloud architecture, Terraform and applied AI, with an emphasis on traceability and human review.
 
+**Portfolio site:** [rajat-kumar-pradhan.netlify.app](https://rajat-kumar-pradhan.netlify.app/)
+
 I design OCI infrastructure — VCN and subnet design, IAM policy, migrations — and study how cloud AI services fit into review-first workflows. The repositories below are independent portfolio simulations: tested offline, documented honestly, and not live tenancy deployments.
 
 ## Research focus
